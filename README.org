@@ -1,0 +1,5 @@
+#+title: README
+[[https://github.com/frantathefranta/beets-personalized/actions/workflows/main.yaml][https://github.com/frantathefranta/beets-personalized/actions/workflows/main.yaml/badge.svg]]
+
+** Introduction
+This is a repository for building a customized beets container for use in a k3s cluster.
